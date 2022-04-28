@@ -94,3 +94,8 @@ if __name__ == '__main__':
 # scrapy crawl wyy --nolog不输出日志
 # scrapy crawl wyy默认输出日志到窗口
 # scrapy crawl wyy -s LOG_FILE=all.log #日志输出到当前目录下
+
+# scrapy crawl wyy --nolog不输出日志
+# scrapy crawl wyy默认输出日志到窗口
+# scrapy crawl wyy -s LOG_FILE=all.log #日志输出到当前目录下
+
